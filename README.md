@@ -9,3 +9,5 @@ cd spring-petclinic
 
 java -jar target/*.jar
 open the 9080 port
+
+jenkins run on 8080 port
